@@ -11,7 +11,7 @@ function LogOut() {
   const handleLogout = async () => {
     try {
       await signOut(auth);
-      navigate("/");
+      navigate("/BdayPal");
       console.log("User signed out");
     } catch (error) {
       console.error("Error during sign-out:", error);
