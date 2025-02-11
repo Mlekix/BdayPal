@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route path="/" element={<StartPage />} />
+        <Route path="/BdayPal" element={<StartPage />} />
 
         <Route path="/main" element={<MainPage />} />
 
