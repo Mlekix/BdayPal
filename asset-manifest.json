@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bdaypal/static/css/main.10377e64.css",
+    "main.js": "/bdaypal/static/js/main.33c28012.js",
+    "index.html": "/bdaypal/index.html",
+    "main.10377e64.css.map": "/bdaypal/static/css/main.10377e64.css.map",
+    "main.33c28012.js.map": "/bdaypal/static/js/main.33c28012.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10377e64.css",
+    "static/js/main.33c28012.js"
+  ]
+}
