@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bdaypal/static/css/main.10377e64.css",
-    "main.js": "/bdaypal/static/js/main.33c28012.js",
-    "index.html": "/bdaypal/index.html",
-    "main.10377e64.css.map": "/bdaypal/static/css/main.10377e64.css.map",
-    "main.33c28012.js.map": "/bdaypal/static/js/main.33c28012.js.map"
+    "main.css": "/BdayPal/static/css/main.10377e64.css",
+    "main.js": "/BdayPal/static/js/main.bf2ec671.js",
+    "index.html": "/BdayPal/index.html",
+    "main.10377e64.css.map": "/BdayPal/static/css/main.10377e64.css.map",
+    "main.bf2ec671.js.map": "/BdayPal/static/js/main.bf2ec671.js.map"
   },
   "entrypoints": [
     "static/css/main.10377e64.css",
-    "static/js/main.33c28012.js"
+    "static/js/main.bf2ec671.js"
   ]
 }
